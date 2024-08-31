@@ -1,0 +1,21 @@
+https://github.com/Egle2891/prueba1.git
+
+-------------------------
+o cree un nuevo repositorio en la línea de comandos
+
+eco "# prueba1" >> README.md
+git init
+git añadir README.md
+git commit -m "primer commit"
+rama git - M principal
+git remote agregar origen https://github.com/Egle2891/prueba1.git
+git push -u origen principal
+
+
+-----------------------
+o empuje un repositorio existente desde la línea de comandos
+
+
+git remote agregar origen https://github.com/Egle2891/prueba1.git
+rama git - M principal
+git push -u origen principal
